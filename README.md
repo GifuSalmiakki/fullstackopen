@@ -1,2 +1,2 @@
 # fullstackopen
-Repo for fullstackopen -course from University of Helsinki, 2022
+Repo for fullstackopen -course from University of Helsinki (whenever I get to it)
